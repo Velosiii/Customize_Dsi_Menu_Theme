@@ -7,6 +7,22 @@ Dsi için hazır temaları bulabileceğiniz site : https://skins.ds-homebrew.com
 # Tema oluşturma
 Eklediğim zip dosyasını indirip üzerinde oynama yapıcaz,eğer farklı bir temayı düzenlemk isterseniz aynı adımları sorunsuz uygulayabilirsiniz.
 
+-tema klasör fotosu-
+
+Sadece 2 klasörü düzenlememiz yeterli
+
+# Background
+
+Burada görülen .png dosyalarını değiştiricez
+
+Eğer temanın kalmasını ve sadece üst ekranda bir fotoğraf olmasını istiyorsanız top.png değiştirmeniz yeterli
+
+İstediğiniz bir fotoğrafı 256x192 ölçülerinde ayrlamanız yeterli
+Bu site ile yapabilirsiniz: https://www.resizepixel.com
+---site fotoğrafı---
+*Ticki kaldırmayı unutmayın
+
+
 
 Dsi için kullandığınız Sd karta bu yolu takip edin: \_nds\TWiLightMenu\dsimenu\themes 
 
