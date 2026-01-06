@@ -22,7 +22,7 @@ Bu rehberde paylaşılan **ZIP** dosyasını indirip üzerinde düzenleme yapaca
 
 📁 **Tema klasörü yapısı**
 
-> *(Buraya tema klasörünün görseli eklenebilir)*
+> ![Tema Klasör Yapısı](notimportant/11.png)
 
 Sadece **2 klasörü** düzenlememiz yeterli:
 
