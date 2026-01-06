@@ -41,13 +41,14 @@ Bu klasör içindeki `.png` dosyalarını değiştireceğiz.
 
 ### Görsel Hazırlama
 
+* İstediğiniz herhangi bir görseli seçebilirsiniz. (.png olmalı)
 * Görsel boyutu: **256x192**
-* Görseli bu siteden kolayca ayarlayabilirsiniz:
+* Eğer resim boyutu uygun değilse görseli bu siteden kolayca ayarlayabilirsiniz:
 
 🔗 [https://www.resizepixel.com](https://www.resizepixel.com)
 
 > ❗ **Önemli:** Sitede bulunan **“Sabit genişlik yükseklik oranı” (Tick)** seçeneğini **kapatmayı unutmayın**.
-![resize](https://github.com/Velosiii/Customize_Dsi_Menu_Theme/blob/main/not%20important/16.png?raw=true),
+>![resize](https://github.com/Velosiii/Customize_Dsi_Menu_Theme/blob/main/not%20important/16.png?raw=true),
 
 <p align="center">
   <img src="https://github.com/Velosiii/Customize_Dsi_Menu_Theme/blob/main/not%20important/14.png?raw=true" width="500">
