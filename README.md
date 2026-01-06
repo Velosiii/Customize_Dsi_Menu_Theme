@@ -22,7 +22,7 @@ Bu rehberde paylaşılan **ZIP** dosyasını indirip üzerinde düzenleme yapaca
 
 📁 **Tema klasörü yapısı**
 
-> ![Tema Klasör Yapısı](notimportant/11.png)
+> ![Tema Klasör Yapısı](https://github.com/Velosiii/Customize_Dsi_Menu_Theme/blob/main/not%20important/11.png?raw=true)
 
 Sadece **2 klasörü** düzenlememiz yeterli:
 
