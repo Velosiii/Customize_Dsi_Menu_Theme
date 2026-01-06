@@ -47,8 +47,10 @@ Bu klasör içindeki `.png` dosyalarını değiştireceğiz.
 🔗 [https://www.resizepixel.com](https://www.resizepixel.com)
 
 > ❗ **Önemli:** Sitede bulunan **“Sabit genişlik yükseklik oranı” (Tick)** seçeneğini **kapatmayı unutmayın**.
+![resize](https://github.com/Velosiii/Customize_Dsi_Menu_Theme/blob/main/not%20important/16.png?raw=true),
 
->![resize](https://github.com/Velosiii/Customize_Dsi_Menu_Theme/blob/main/not%20important/16.png?raw=true)
+>![resize](https://github.com/Velosiii/Customize_Dsi_Menu_Theme/blob/main/not%20important/14.png?raw=true)
+![resize](https://github.com/Velosiii/Customize_Dsi_Menu_Theme/blob/main/not%20important/15.png?raw=true)
 
 ---
 
