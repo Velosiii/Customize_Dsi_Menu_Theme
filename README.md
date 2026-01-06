@@ -37,7 +37,7 @@ Koymuş olduğum kırmızı kısımların aynısı seçiyorsunuz
 ***bgm.wav önemli
 Kaydet diyip işimizi bitiriyoruz
 
-#Dsi Dosya Aktarımı
+# Dsi Dosya Aktarımı
 Dsi için kullandığınız Sd karta bu yolu takip edin: \_nds\TWiLightMenu\dsimenu\themes 
 
 (Yol olarak kopyalamanız yeterli yine de görsel olarak ekledim)
