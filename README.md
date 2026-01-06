@@ -4,6 +4,10 @@ Bu adımları yapabilmek için twilight menu konsolunuzda kurulu olmalı
 Dsi için hazır temaları bulabileceğiniz site : https://skins.ds-homebrew.com/nintendo-dsi/
 
 
+# Tema oluşturma
+Eklediğim zip dosyasını indirip üzerinde oynama yapıcaz,eğer farklı bir temayı düzenlemk isterseniz aynı adımları sorunsuz uygulayabilirsiniz.
+
+
 Dsi için kullandığınız Sd karta bu yolu takip edin: \_nds\TWiLightMenu\dsimenu\themes 
 
 (Yol olarak kopyalamanız yeterli yine de görsel olarak ekledim)
