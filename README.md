@@ -1,62 +1,125 @@
-For english https://github.com/Velosiii/Customize_Dsi_Menu_Theme?tab=readme-ov-file#customize-dsi-menu-theme
+# TWiLight Menu++ DSi Tema Oluşturma Rehberi 🇹🇷
 
-# ]-----Tr-----[ 
-Bu adımları yapabilmek için twilight menu konsolunuzda kurulu olmalı
+Bu rehber, **Nintendo DSi** için **TWiLight Menu++** kullanarak özel tema oluşturmayı ve yüklemeyi adım adım anlatır.
 
-Dsi için hazır temaları bulabileceğiniz site : https://skins.ds-homebrew.com/nintendo-dsi/
+> ⚠️ Bu adımları uygulayabilmek için **TWiLight Menu++** konsolunuzda kurulu olmalıdır.
 
+---
 
-# Tema oluşturma
-Eklediğim zip dosyasını indirip üzerinde oynama yapıcaz,eğer farklı bir temayı düzenlemk isterseniz aynı adımları sorunsuz uygulayabilirsiniz.
+## 📌 Hazır Temalar
 
--tema klasör fotosu-
+DSi için hazır temaları bulabileceğiniz site:
 
-Sadece 2 klasörü düzenlememiz yeterli
+🔗 [https://skins.ds-homebrew.com/nintendo-dsi/](https://skins.ds-homebrew.com/nintendo-dsi/)
 
-# Background
+İsterseniz buradaki herhangi bir temayı indirip aşağıdaki adımlarla düzenleyebilirsiniz.
 
-Burada görülen .png dosyalarını değiştiricez
+---
 
-Eğer temanın kalmasını ve sadece üst ekranda bir fotoğraf olmasını istiyorsanız top.png değiştirmeniz yeterli
+## 🎨 Tema Oluşturma
 
-İstediğiniz bir fotoğrafı 256x192 ölçülerinde ayrlamanız yeterli
-Bu site ile yapabilirsiniz: https://www.resizepixel.com
----site fotoğrafı---
-Öenmli***Ticki kaldırmayı unutmayın
+Bu rehberde paylaşılan **ZIP** dosyasını indirip üzerinde düzenleme yapacağız. Farklı bir tema düzenlemek isterseniz de aynı adımlar geçerlidir.
 
-# Arkaplan sesi
-Öncelikle kullandığınız cihaza https://www.audacityteam.org Audacity kurmanız lazım
-Ses dosyasını uygulamanın içine atıyoruz 
-İlk olarak çift kanalı tek kanala düşürüyoruz 
--o foto-
-Şimdi ses ayarı yapıcaz bu yolu takip edip ayarları açıyoruz
--ayarlar fotosu-
+📁 **Tema klasörü yapısı**
 
+> *(Buraya tema klasörünün görseli eklenebilir)*
 
-Dosyayı kaydetme vakti ama sesi dışarıya aktar diyerk farklı kaydedicez
-Önce sağdaki seçeneği seçerek ayar menüsüne geliyoruz
-Koymuş olduğum kırmızı kısımların aynısı seçiyorsunuz
-***bgm.wav önemli
-Kaydet diyip işimizi bitiriyoruz
+Sadece **2 klasörü** düzenlememiz yeterli:
 
-# Dsi Dosya Aktarımı
-Dsi için kullandığınız Sd karta bu yolu takip edin: \_nds\TWiLightMenu\dsimenu\themes 
+* `Background`
+* `Sound`
 
-(Yol olarak kopyalamanız yeterli yine de görsel olarak ekledim)
+---
 
--fotolar-
+## 🖼️ Arka Plan (Background)
 
-Hazırladığımız tema dosyasını buraya bırakmamız yeterli
+Bu klasör içindeki `.png` dosyalarını değiştireceğiz.
 
-Şimdi dsi açıp ordan temayı etkinleştirme ve üst foto kısmı kapatma ayarını yapıcaz
+* Eğer **temanın tamamı kalsın**, sadece **üst ekranda bir fotoğraf** olsun istiyorsanız **`top.png`** dosyasını değiştirmeniz yeterlidir.
 
--tema ayarı-
+### Görsel Hazırlama
 
--üst foto kapatma-
+* Görsel boyutu: **256x192**
+* Görseli bu siteden kolayca ayarlayabilirsiniz:
 
-Bitti
+🔗 [https://www.resizepixel.com](https://www.resizepixel.com)
 
-Teşekkürler,herhangi bir sorunda bana ulaşabilirsiniz...
+> ❗ **Önemli:** Sitede bulunan **“Keep aspect ratio” (Tick)** seçeneğini **kapatmayı unutmayın**.
+
+> *(Site ve örnek görseller buraya eklenebilir)*
+
+---
+
+## 🔊 Arka Plan Sesi (BGM)
+
+### Gerekli Program
+
+🔗 [https://www.audacityteam.org](https://www.audacityteam.org) (Audacity)
+
+Audacity’yi bilgisayarınıza kurun.
+
+### Ses Dosyası Ayarları
+
+1. Ses dosyasını Audacity içine aktarın.
+
+2. **Stereo → Mono** yapın (Çift kanalı tek kanala düşürün).
+
+   > *(Bu adım için ekran görüntüsü eklenebilir)*
+
+3. Ses ayarları için aşağıdaki yolu izleyin:
+
+   > *(Ayarlar ekran görüntüsü buraya eklenebilir)*
+
+### Dosyayı Kaydetme
+
+* **Dosya → Dışa Aktar** yolunu izleyin
+* Sağdaki ayar menüsünden aşağıdaki seçenekleri **birebir** seçin:
+
+  * Dosya adı: **`bgm.wav`** ❗ (çok önemli)
+  * Format: WAV
+
+> *(Kırmızı ile işaretlenmiş ayarların görseli buraya eklenebilir)*
+
+Kaydedip çıkabilirsiniz.
+
+---
+
+## 💾 DSi Dosya Aktarımı
+
+Kullandığınız **SD Kart** içinde aşağıdaki yolu izleyin:
+
+```
+_nds\TWiLightMenu\dsimenu\themes
+```
+
+> *(Klasör yolunun görseli buraya eklenebilir)*
+
+Hazırladığınız **tema klasörünü** bu dizine kopyalamanız yeterlidir.
+
+---
+
+## ⚙️ Tema Etkinleştirme (DSi Üzerinden)
+
+1. DSi cihazınızı açın
+2. **TWiLight Menu++ Ayarları** bölümünden temayı etkinleştirin
+
+> *(Tema ayarı ekran görüntüsü buraya eklenebilir)*
+
+### Üst Fotoğrafı Kapatma
+
+İsterseniz üst ekran görselini ayarlardan kapatabilirsiniz.
+
+> *(Üst foto kapatma ayarı görseli buraya eklenebilir)*
+
+---
+
+## ✅ Bitti!
+
+Artık kendi özel **DSi temanızı** başarıyla oluşturdunuz 🎉
+
+Herhangi bir sorun yaşarsanız benimle iletişime geçebilirsiniz.
+
+**Teşekkürler!** 🙌
 
 
 
