@@ -101,6 +101,9 @@ Dosyanız böyle görünmeli
 
 ## 💾 DSi Dosya Aktarımı
 
+Dosyaları belirtilen yerlerdeki dosyalar ile değiştiriyoruz:
+>![resize](https://github.com/Velosiii/Customize_Dsi_Menu_Theme/blob/main/not%20important/444.png?raw=true)
+
 Kullandığınız **SD Kart** içinde aşağıdaki yolu izleyin:
 
 ```
