@@ -20,10 +20,24 @@ Eğer temanın kalmasını ve sadece üst ekranda bir fotoğraf olmasını istiy
 İstediğiniz bir fotoğrafı 256x192 ölçülerinde ayrlamanız yeterli
 Bu site ile yapabilirsiniz: https://www.resizepixel.com
 ---site fotoğrafı---
-*Ticki kaldırmayı unutmayın
+Öenmli***Ticki kaldırmayı unutmayın
+
+# Arkaplan sesi
+Öncelikle kullandığınız cihaza https://www.audacityteam.org Audacity kurmanız lazım
+Ses dosyasını uygulamanın içine atıyoruz 
+İlk olarak çift kanalı tek kanala düşürüyoruz 
+-o foto-
+Şimdi ses ayarı yapıcaz bu yolu takip edip ayarları açıyoruz
+-ayarlar fotosu-
 
 
+Dosyayı kaydetme vakti ama sesi dışarıya aktar diyerk farklı kaydedicez
+Önce sağdaki seçeneği seçerek ayar menüsüne geliyoruz
+Koymuş olduğum kırmızı kısımların aynısı seçiyorsunuz
+***bgm.wav önemli
+Kaydet diyip işimizi bitiriyoruz
 
+#Dsi Dosya Aktarımı
 Dsi için kullandığınız Sd karta bu yolu takip edin: \_nds\TWiLightMenu\dsimenu\themes 
 
 (Yol olarak kopyalamanız yeterli yine de görsel olarak ekledim)
