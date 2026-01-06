@@ -80,15 +80,22 @@ Audacity’yi bilgisayarınıza kurun.
 
 ### Dosyayı Kaydetme
 
-* **Dosya → Dışa Aktar** yolunu izleyin
-* Sağdaki ayar menüsünden aşağıdaki seçenekleri **birebir** seçin:
+* **Dosya → Sesi Dışa Aktar** yolunu izleyin
+> ![resize](https://github.com/Velosiii/Customize_Dsi_Menu_Theme/blob/main/not%20important/21.png?raw=true)
+* Sağdaki bilgisayarım seçeneği ile devam ediyoruz
+> ![resize](https://github.com/Velosiii/Customize_Dsi_Menu_Theme/blob/main/not%20important/22.png?raw=true)
+
+* Ayar menüsünden aşağıdaki seçenekleri **birebir** seçin:
 
   * Dosya adı: **`bgm.wav`** ❗ (çok önemli)
   * Format: WAV
 
 > ![resize](https://github.com/Velosiii/Customize_Dsi_Menu_Theme/blob/main/not%20important/23.png?raw=true)
 
-Kaydedip çıkabilirsiniz.
+Dışa aktar demeniz yeterli.
+
+*Dosyanız böyle görünmeli
+>![resize](https://github.com/Velosiii/Customize_Dsi_Menu_Theme/blob/main/not%20important/24.png?raw=true)
 
 ---
 
@@ -100,7 +107,7 @@ Kullandığınız **SD Kart** içinde aşağıdaki yolu izleyin:
 _nds\TWiLightMenu\dsimenu\themes
 ```
 
-> *(Klasör yolunun görseli buraya eklenebilir)*
+> ![resize](https://github.com/Velosiii/Customize_Dsi_Menu_Theme/blob/main/not%20important/333.png?raw=true)
 
 Hazırladığınız **tema klasörünü** bu dizine kopyalamanız yeterlidir.
 
