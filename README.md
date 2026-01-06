@@ -5,6 +5,7 @@ Dsi için hazır temaları bulabileceğiniz site : https://skins.ds-homebrew.com
 
 
 Dsi için kullandığınız Sd karta bu yolu takip edin: \_nds\TWiLightMenu\dsimenu\themes 
+
 (Yol olarak kopyalamanız yeterli yine de görsel olarak ekledim)
 
 -fotolar-
