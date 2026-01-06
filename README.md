@@ -49,8 +49,10 @@ Bu klasör içindeki `.png` dosyalarını değiştireceğiz.
 > ❗ **Önemli:** Sitede bulunan **“Sabit genişlik yükseklik oranı” (Tick)** seçeneğini **kapatmayı unutmayın**.
 ![resize](https://github.com/Velosiii/Customize_Dsi_Menu_Theme/blob/main/not%20important/16.png?raw=true),
 
->![resize](https://github.com/Velosiii/Customize_Dsi_Menu_Theme/blob/main/not%20important/14.png?raw=true)
-![resize](https://github.com/Velosiii/Customize_Dsi_Menu_Theme/blob/main/not%20important/15.png?raw=true)
+<p align="center">
+  <img src="https://github.com/Velosiii/Customize_Dsi_Menu_Theme/blob/main/not%20important/14.png?raw=true" width="500">
+  <img src="https://github.com/Velosiii/Customize_Dsi_Menu_Theme/blob/main/not%20important/15.png?raw=true" width="500">
+</p>
 
 ---
 
@@ -66,13 +68,15 @@ Audacity’yi bilgisayarınıza kurun.
 
 1. Ses dosyasını Audacity içine aktarın.
 
+   >![resize](https://github.com/Velosiii/Customize_Dsi_Menu_Theme/blob/main/not%20important/17.png?raw=true)
+
 2. **Stereo → Mono** yapın (Çift kanalı tek kanala düşürün).
 
-   > *(Bu adım için ekran görüntüsü eklenebilir)*
+   > ![resize](https://github.com/Velosiii/Customize_Dsi_Menu_Theme/blob/main/not%20important/18.png?raw=true)
 
 3. Ses ayarları için aşağıdaki yolu izleyin:
 
-   > *(Ayarlar ekran görüntüsü buraya eklenebilir)*
+   > ![resize](https://github.com/Velosiii/Customize_Dsi_Menu_Theme/blob/main/not%20important/19.png?raw=true)
 
 ### Dosyayı Kaydetme
 
@@ -82,7 +86,7 @@ Audacity’yi bilgisayarınıza kurun.
   * Dosya adı: **`bgm.wav`** ❗ (çok önemli)
   * Format: WAV
 
-> *(Kırmızı ile işaretlenmiş ayarların görseli buraya eklenebilir)*
+> ![resize](https://github.com/Velosiii/Customize_Dsi_Menu_Theme/blob/main/not%20important/23.png?raw=true)
 
 Kaydedip çıkabilirsiniz.
 
