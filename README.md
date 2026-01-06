@@ -35,6 +35,8 @@ Sadece **2 klasörü** düzenlememiz yeterli:
 
 Bu klasör içindeki `.png` dosyalarını değiştireceğiz.
 
+>![Background](https://github.com/Velosiii/Customize_Dsi_Menu_Theme/blob/main/not%20important/13.png?raw=true)
+
 * Eğer **temanın tamamı kalsın**, sadece **üst ekranda bir fotoğraf** olsun istiyorsanız **`top.png`** dosyasını değiştirmeniz yeterlidir.
 
 ### Görsel Hazırlama
@@ -44,9 +46,9 @@ Bu klasör içindeki `.png` dosyalarını değiştireceğiz.
 
 🔗 [https://www.resizepixel.com](https://www.resizepixel.com)
 
-> ❗ **Önemli:** Sitede bulunan **“Keep aspect ratio” (Tick)** seçeneğini **kapatmayı unutmayın**.
+> ❗ **Önemli:** Sitede bulunan **“Sabit genişlik yükseklik oranı” (Tick)** seçeneğini **kapatmayı unutmayın**.
 
-> *(Site ve örnek görseller buraya eklenebilir)*
+>![resize](https://github.com/Velosiii/Customize_Dsi_Menu_Theme/blob/main/not%20important/16.png?raw=true)
 
 ---
 
