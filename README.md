@@ -94,7 +94,7 @@ Audacity’yi bilgisayarınıza kurun.
 
 Dışa aktar demeniz yeterli.
 
-*Dosyanız böyle görünmeli
+Dosyanız böyle görünmeli
 >![resize](https://github.com/Velosiii/Customize_Dsi_Menu_Theme/blob/main/not%20important/24.png?raw=true)
 
 ---
