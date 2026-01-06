@@ -18,7 +18,7 @@ DSi için hazır temaları bulabileceğiniz site:
 
 ## 🎨 Tema Oluşturma
 
-Bu rehberde paylaşılan **RAR** dosyasını indirip,klasörü çıkartın.Bu klasör üzerinde düzenleme yapacağız. Farklı bir tema düzenlemek isterseniz de aynı adımlar geçerlidir.
+Bu rehberde paylaşılan **RAR** dosyasını indirip, klasörü çıkartın. Bu klasör üzerinde düzenleme yapacağız. Farklı bir tema düzenlemek isterseniz de aynı adımlar geçerlidir.
 
 📁 **Tema klasörü yapısı**
 
