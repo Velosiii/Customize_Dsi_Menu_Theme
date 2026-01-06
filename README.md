@@ -1,3 +1,5 @@
+For english https://github.com/Velosiii/Customize_Dsi_Menu_Theme?tab=readme-ov-file#customize-dsi-menu-theme
+
 # ]-----Tr-----[ 
 Bu adımları yapabilmek için twilight menu konsolunuzda kurulu olmalı
 
