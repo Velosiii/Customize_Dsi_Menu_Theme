@@ -1,4 +1,4 @@
-#]-----Tr-----[
+# ]-----Tr-----[ 
 Bu adımları yapabilmek için twilight menu konsolunuzda kurulu olmalı
 
 Dsi için hazır temaları bulabileceğiniz site : https://skins.ds-homebrew.com/nintendo-dsi/
