@@ -5,7 +5,7 @@ Bu rehber, **Nintendo DSi** için **TWiLight Menu++** kullanarak özel tema olu�
 > ⚠️ Bu adımları uygulayabilmek için **TWiLight Menu++** konsolunuzda kurulu olmalıdır.
 
 ---
-
+ 
 ## 📌 Hazır Temalar
 
 DSi için hazır temaları bulabileceğiniz site:
