@@ -7,7 +7,7 @@ Bu rehber, **Nintendo DSi** için **TWiLight Menu++** kullanarak özel tema olu�
 ---
  
 ## 📌 Hazır Temalar
- 
+
 DSi için hazır temaları bulabileceğiniz site:
 
 🔗 [https://skins.ds-homebrew.com/nintendo-dsi/](https://skins.ds-homebrew.com/nintendo-dsi/)
